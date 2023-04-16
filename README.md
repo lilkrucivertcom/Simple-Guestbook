@@ -12,5 +12,5 @@ Do not worry about spammers! It has a built in protection and only allows one po
 ## 🕵️‍♂️What about posters privacy?
 This guestbook automatically hashes the IPs so even if someone decides to access the txt file they will only see hashes.
 
-Hey! please also read this:
+###### Hey! please also read this:
 Keep in mind that this is meant to be viewed on PC, so you will have to change the CSS a bit to make it more mobile-friendly.
