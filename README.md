@@ -13,7 +13,7 @@ it has a built in protection and only allows one post an hour per IP
 the script automatically hashes the IPs so even if someone decides to access the txt file they will only see hashes
 
 ## 🙄Who is it made for?
-it is made for people that own minimal websites and want to keep it JavaScript free or don't want to set-up a database
+it is made for people that own minimal websites who want to keep it JavaScript free or don't want to set-up a database
 
 <a href="https://ibb.co/n1T5dsW"><img src="https://i.ibb.co/X59v0Zw/Example.gif" alt="Example" border="0"></a>
 
