@@ -20,5 +20,7 @@ it is made for people that own minimal websites who want to keep it JavaScript f
 ## ⚙️How to set this up?
 This is very simple! Create a folder called ```guestbook``` in you main webpage folder. Put the files from this repo in the folder you just created. That's it, now you can access it going to ```yourdomain.example.whatever/guestbook```. Just make sure you hosting supports php.
 
+## This is how it looks https://lilkrucivert.com/guestbook
+
 ###### Hey! please also read this:
 ###### Keep in mind that this is meant to be viewed on PC, so you will have to change the CSS a bit to make it more mobile-friendly.
