@@ -42,7 +42,7 @@
     </style>
 </head>
 <body>
-  <h1 style='display:inline;'> Guestbook </h1>  made with ❤️ by <a href='https://lilkrucivert.com'> lilkrucivert </a>
+  <h1 style='display:inline;'> Guestbook </h1>  made with ❤️ by <a href='https://github.com/lilkrucivertcom/simple-guestbook/'> lilkrucivert </a>
   
   
   	<form method="post">
