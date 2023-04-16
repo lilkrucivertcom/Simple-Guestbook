@@ -15,5 +15,7 @@ the script automatically hashes the IPs so even if someone decides to access the
 ## 🙄Who is it made for?
 it is made for people that own minimal websites and want to keep it JavaScript free or don't want to set-up a database
 
+<a href="https://ibb.co/n1T5dsW"><img src="https://i.ibb.co/X59v0Zw/Example.gif" alt="Example" border="0"></a>
+
 ###### Hey! please also read this:
 ###### Keep in mind that this is meant to be viewed on PC, so you will have to change the CSS a bit to make it more mobile-friendly.
