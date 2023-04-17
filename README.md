@@ -1,19 +1,19 @@
 # 📚Simple Guestbook📚
 
 ## 📒What is it?
-a simple php website that serves a guestbook for minimal websites
+a simple php website that serves as a guestbook for minimal websites
 
 ## ⚙️How does it work?
 it operates on txt files, that's why it doesn't need to be hooked up to any database
 
 ## 👺What about spammers?
-it has a built in protection and only allows one post an hour per IP
+it has a built in protection and only allows one post an hour per IP (you can easily change the time limit)
 
 ## 🕵️‍♂️What about posters privacy?
 the script automatically hashes the IPs so even if someone decides to access the txt file they will only see hashes
 
 ## 🙄Who is it made for?
-it is made for people that own minimal websites who want to keep it JavaScript free or don't want to set-up a database
+for people that own minimal websites & who want to keep their site JavaScript free or don't want to set-up a database
 
 <a href="https://ibb.co/n1T5dsW"><img src="https://i.ibb.co/X59v0Zw/Example.gif" alt="Example" border="0"></a>
 
