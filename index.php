@@ -54,7 +54,8 @@
 
 <body>
     <div class="bg">
-        <h1><a href="https://github.com/lilkrucivertcom/Simple-Guestbook" style="text-decoration:none;">Guestbook</a></h1>
+        <h1>Guestbook</h1><br>
+        <a href="https://github.com/lilkrucivertcom/Simple-Guestbook" style="text-decoration:none;">source code</a>
 
         <form method="post">
             <label for="nickname">Nickname:</label>
@@ -68,7 +69,7 @@
             <a href="?order=newest">Show Newest First</a>
             <a href="?order=oldest">Show Oldest First</a>
             <br /><br />
-            <a href="https://lilkrucivert.com">-> Back to home <-</a>
+            <a href="SET YOUR MAIN PAGE LINK HERE">-> Back to home <-</a> // <- IMPORTANT CHANGE HREF
         </form>
 
         <?php
